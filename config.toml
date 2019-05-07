@@ -1,0 +1,8 @@
+title = "Device Config"
+
+[server]
+URL = "http://localhost:8200/things/bootstrap/"
+
+[thing]
+external_ID = "00-AC-87-B4-86-13"
+external_key= "00e0dcfa-6b46-11e9-a923-1681be663d3e"
